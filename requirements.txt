@@ -1,1 +1,3 @@
 
+ipykernel #for jupyter notebook
+numpy
