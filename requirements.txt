@@ -1,3 +1,5 @@
 
 ipykernel #for jupyter notebook
+tarfile
 numpy
+pandas
